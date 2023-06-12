@@ -9,7 +9,7 @@ Currently, I'm open to opportunities in roles such as Data Analyst, Business Ana
 📚 Projects
 
 
-Welcome to my [portfolio](https://github.com/nischala16/Data-Analyst-Portfolio), where I showcase my projects.
+Check out my [portfolio](https://github.com/nischala16/Data-Analyst-Portfolio), where I showcase my projects.
 
 
 🛠️ Tools
