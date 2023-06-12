@@ -14,5 +14,9 @@ Welcome to my portfolio, where I showcase my projects.
 
 🛠️ Tools
 Database: PostgreSQL, MySQL, SQL Server
+
+
 Python: NumPy, Pandas
+
+
 Business Intelligence: Tableau
