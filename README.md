@@ -7,6 +7,8 @@ I am passionate about applying a biomedical background and technical expertise t
 Currently, I'm open to opportunities in roles such as Data Analyst, Business Analyst, Tableau Developer, and Analytics Engineer.
 
 📚 Projects
+
+
 Welcome to my portfolio, where I showcase my projects.
 
 
