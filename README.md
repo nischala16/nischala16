@@ -15,7 +15,11 @@ Check out my [portfolio](https://github.com/nischala16/Data-Analyst-Portfolio), 
 
 🛠️ Tools
 Databases: PostgreSQL, MySQL, SQL Server, Snowflake
+
 Python: NumPy, Pandas, Matplotlib, Seaborn
+
 R: Tidyverse, ggplot2, dplyr, tidyr, Shiny
+
 Business Intelligence: Tableau, Qlik Sense
+
 Other: Jupyter Notebook, Git, DBT, Apache Airflow
