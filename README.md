@@ -14,6 +14,7 @@ Check out my [portfolio](https://github.com/nischala16/Data-Analyst-Portfolio), 
 
 
 🛠️ Tools
+
 Databases: PostgreSQL, MySQL, SQL Server, Snowflake
 
 Python: NumPy, Pandas, Matplotlib, Seaborn
