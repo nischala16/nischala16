@@ -3,7 +3,7 @@ Hi, I'm Nischala! 👋
 👩🏻‍💻 Data Analyst sharing about my journey and learnings in tech  
 👩🏻‍🎓 BS in Neurobiology and MS in Biomedical Sciences  
 🌷 You can find my analytics work in this [portfolio](https://github.com/nischala16/Data-Analyst-Portfolio).  
-💭 Currently exploring machine learning!  
+💭 Currently exploring machine learning! You can find my work on the ibm professional data science certificate [here](https://github.com/nischala16/ibm-data-science-cert)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/nischala-nagisetty/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@nischalanagisetty) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nischalanagisetty@gmail.com) 
