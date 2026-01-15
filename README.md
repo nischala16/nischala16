@@ -2,7 +2,7 @@ Hi, I'm Nischala! 👋
 
 👩🏻‍💻 Data Analyst sharing about my journey and learnings in tech  
 👩🏻‍🎓 BS in Neurobiology and MS in Biomedical Sciences  
-🌷 You can find my analytics work in this [portfolio](https://github.com/nischala16/Data-Analyst-Portfolio).  
+🌷 You can find my analytics and data science work in this [portfolio](https://github.com/nischala16/Data-Analyst-Portfolio).  
 💭 Currently exploring machine learning! You can find my work on the ibm professional data science certificate [here](https://github.com/nischala16/ibm-data-science-cert)
 
 ## 🌐 Socials:
